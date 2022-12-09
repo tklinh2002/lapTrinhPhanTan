@@ -1,6 +1,6 @@
-# lapTrinhPhanT
+# lapTrinhPhanTan
 
-<session-factory>
+<!-- <session-factory>
 		<!-- Database connection settings -->
 		<property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
 		<property name="connection.url">jdbc:sqlserver://localhost:1433;database=QuanLySinhVien;encrypt=true;trustServerCertificate=true</property>
@@ -76,4 +76,6 @@
 //			tr.rollback();
 //		}
 //	}
+
+	 -->
   
